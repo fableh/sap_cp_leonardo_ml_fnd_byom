@@ -9,4 +9,6 @@
 
 > docker run -p 5000:5000 <your app>
   
+### Open postman an send the post request
+  
   ![Alt text](/postman1.png?raw=true "Execute the locval API")
