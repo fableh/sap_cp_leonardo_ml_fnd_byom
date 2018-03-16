@@ -1,2 +1,3 @@
-# SAP Leonardo ML Foundation example to run a local app and provide an api endpoint on localhost
+# SAP Leonardo ML Foundation example
+## Running a local app and provide an api endpoint on localhost
 
