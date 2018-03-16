@@ -1,7 +1,7 @@
 # SAP Leonardo ML Foundation example
 ## Running a local app and provide an api endpoint on localhost
 
-### run a the docker build
+### run the docker build
 
 > docker build -t <your app> .
 
