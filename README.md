@@ -9,4 +9,4 @@
 
 > docker run -p 5000:5000 <your app>
   
-  ![Alt text](/postmann1.PNG?raw=true "Execute the locval API")
+  ![Alt text](/postmann1.png?raw=true "Execute the locval API")
