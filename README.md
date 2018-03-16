@@ -1,1 +1,2 @@
-# sap_cp_leonardo_ml_fnd_byom
+# SAP Leonardo ML Foundation example to run a local app and provide an api endpoint on localhost
+
